@@ -2,11 +2,15 @@ site_name: ParkEase
 site_description: AI & Cloud-based Parking Management by SLTMobitel
 site_author: SLTMobitel Innovation Center – The Embryo
 
+repo_url: https://github.com/YourUsername/YourRepo
+repo_name: GitHub 
+
 theme:
   name: material
   logo: images/parkease-logo.png
   favicon: images/favicon.ico
-
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - scheme: default
       toggle:
@@ -23,6 +27,7 @@ theme:
     - navigation.tabs
     - navigation.expand
     - navigation.sections
+    - navigation.footer
     - search.suggest
     - search.highlight
 
@@ -50,5 +55,15 @@ nav:
   - Integration: integration.md
   - Deployment: deployment.md
   - Troubleshooting: troubleshooting.md
-  - About: about.md
   - Support: support.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/YourUsername/YourRepo
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/yourprofile
+
+copyright: >
+  © 2025 SLTMobitel Innovation Center – The Embryo.  <br>
+  Made by Isuru M Dasanayake using MkDocs Material.

@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <strong>AI & Cloud-based Parking Management Solution by <br>SLTMobitel Innovation Center – The Embryo</strong>
+  <strong>The "Park Ease" solution by SLTMobitel's innovation center, "The Embryo," is an AI and cloud-based parking management system designed to enhance security and efficiency in parking facilities.</strong>
 </p>
 
 ---
 
-## 🚗 What is ParkEase?
+##  What is ParkEase?
 
 **ParkEase** is a state-of-the-art parking management solution that combines **AI, IoT, and Cloud technologies** to make parking **faster, safer, and more efficient**.  
 
@@ -25,7 +25,7 @@ With ParkEase, both drivers and parking facility operators enjoy a seamless expe
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - :automobile: **Automated Access**  
   Seamless vehicle entry and exit using AI-powered ANPR and gate control.
@@ -50,7 +50,7 @@ With ParkEase, both drivers and parking facility operators enjoy a seamless expe
 
 ---
 
-## 🖥️ How It Works
+## How It Works
 
 ParkEase consists of **three main components**:
 
@@ -71,20 +71,18 @@ ParkEase consists of **three main components**:
 
 ---
 
-## 📖 Explore Documentation
+##  Explore Documentation
 
 Dive into the complete ParkEase documentation:
 
-- [Overview](overview.md) – System introduction and use case  
-- [Edge Device Setup](edge-device.md) – Hardware installation & configuration  
-- [Console](console.md) – Admin dashboard, parking maps, and billing  
+- [Overview](overview.md) – System introduction and use case    
 - [Integration](integration.md) – APIs, system integration, and customizations  
 - [Deployment](deployment.md) – How to deploy ParkEase on-premises  
 - [Security](security.md) – Security guidelines and best practices  
 
 ---
 
-## 🏢 About SLTMobitel Innovation Center
+## About SLTMobitel Innovation Center
 
 **The Embryo**, the innovation center of SLTMobitel, develops smart city solutions such as ParkEase.  
 Our mission is to improve daily life using **AI, IoT, and cloud technologies**, focusing on:
@@ -93,18 +91,10 @@ Our mission is to improve daily life using **AI, IoT, and cloud technologies**, 
 - Secure, reliable systems for public and private facilities  
 - Scalable solutions adaptable to various environments  
 
----
-
-## 🚀 Quick Links
-
-- :arrow_forward: [**Getting Started Guide →**](getting-started.md)  
-- :file_folder: [**API Reference →**](api-reference.md)  
-- :wrench: [**Troubleshooting →**](troubleshooting.md)  
-- :information_source: [**Support →**](support.md)  
 
 ---
 
-## 📌 Why ParkEase?
+## Why ParkEase?
 
 - Reduce waiting times and congestion in parking facilities  
 - Maximize space utilization with smart allocation  
@@ -114,7 +104,7 @@ Our mission is to improve daily life using **AI, IoT, and cloud technologies**, 
 
 ---
 
-## 🌟 Testimonials
+##  Testimonials
 
 > "ParkEase transformed our parking operations. The automation and live monitoring save us hours of manual work daily!"  
 > — **Facility Manager, Colombo Central Parking**
@@ -124,7 +114,7 @@ Our mission is to improve daily life using **AI, IoT, and cloud technologies**, 
 
 ---
 
-## 💡 Get Started Today
+##  Get Started Today
 
 Experience how ParkEase can revolutionize parking management:  
 
@@ -132,3 +122,10 @@ Experience how ParkEase can revolutionize parking management:
 - :computer: Configure the cloud server and admin console  
 - :rocket: Start managing parking lots smarter, safer, and faster  
 
+---
+
+## Quick Links
+
+- :arrow_forward: [**Getting Started Guide →**](getting-started.md)   
+- :wrench: [**Troubleshooting →**](troubleshooting.md)  
+- :information_source: [**Support →**](support.md)  
