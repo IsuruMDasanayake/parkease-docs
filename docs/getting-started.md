@@ -83,14 +83,14 @@ ParkEase’s **Cloud Console** is where operators manage the system.
 - **Billing** — payments & user account management  
 - **Security Logs** — entry/exit history  
 
-To set up:
+To set up: 
 
-    1. Deploy ParkEase backend on your server (on-prem or cloud).  
-    2. Connect edge devices to the backend using provided API keys.  
-    3. Configure operator accounts in the console.  
+1. Deploy ParkEase backend on your server (on-prem or cloud).  
+2. Connect edge devices to the backend using provided API keys.  
+3. Configure operator accounts in the console.  
 
-![Console Dashboard](images/console-dashboard.jpg)  
-*Figure 5: ParkEase operator dashboard*
+<!-- ![Console Dashboard](images/console-dashboard.jpg)  
+*Figure 5: ParkEase operator dashboard* -->
 
 ---
 
@@ -122,6 +122,5 @@ See the [Troubleshooting Guide](troubleshooting.md) for details.
 
 👉 Continue with:  
 - [**Console Features →**](console/dashboard.md)  
-- [**Integration Guide →**](integration.md)  
-- [**Deployment Options →**](deployment.md)  
+  
 

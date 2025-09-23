@@ -69,7 +69,7 @@ ParkEase consists of **three main components**:
     - Admin console for managing gates, users, and billing  
     - Optional integration with existing systems  
 
----
+<!-- ---
 
 ##  Explore Documentation
 
@@ -80,7 +80,7 @@ Dive into the complete ParkEase documentation:
 - [Deployment](deployment.md) – How to deploy ParkEase on-premises  
 - [Security](security.md) – Security guidelines and best practices  
 
----
+--- -->
 
 ## About SLTMobitel Innovation Center
 

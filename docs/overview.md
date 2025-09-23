@@ -91,5 +91,4 @@ ParkEase is built with a **hybrid Edge + Cloud architecture**:
 
 👉 Continue to:  
     - [**Getting Started Guide**](getting-started.md)  
-    - [**Console Features**](console/dashboard.md)  
-    - [**Integration Options**](integration.md)  
+    - [**Console Features**](console/dashboard.md)    
