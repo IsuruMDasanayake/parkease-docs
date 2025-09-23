@@ -57,6 +57,7 @@ nav:
           - Dashboard: console/dashboard.md
           - Parking Map: console/parking-map.md
           - Billing: console/billing.md
+          - GUI: console/gui.md
   - Help:
       - Troubleshooting: troubleshooting.md
       - Support: support.md

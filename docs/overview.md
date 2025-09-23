@@ -9,8 +9,7 @@ It is designed to address the growing challenges of urban mobility, parking cong
 - **Internet of Things (IoT)**
 - **Cloud Computing**
 
-![Hardware Setup](images/system-overview.png)
-*Figure 1: System Overview with Step by Step Process*
+
 ---
 
 ## Why ParkEase?
@@ -46,9 +45,8 @@ ParkEase is built with a **hybrid Edge + Cloud architecture**:
     - **Parking Map** for real-time availability  
     - **Billing Module** for payments and account handling  
 
-![Hardware Setup](images/hardware-setup.png)
-*Figure 2: Hardware setup of ParkEase*
-
+![Hardware Setup](images/system-overview.png)
+*Figure : Basic System Architecture* 
 ---
 
 ## Core Capabilities
