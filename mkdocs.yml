@@ -45,17 +45,22 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Overview: overview.md
-  - Getting Started: getting-started.md
-  - Console:
-      - Dashboard: console/dashboard.md
-      - Parking Map: console/parking-map.md
-      - Billing: console/billing.md
-  - Security: security.md
-  - Integration: integration.md
-  - Deployment: deployment.md
-  - Troubleshooting: troubleshooting.md
-  - Support: support.md
+  - Introduction:
+      - Overview: overview.md
+      - Getting Started: getting-started.md
+  - Guides:
+      - Deployment: deployment.md
+      - Integration: integration.md
+      - Security: security.md
+  - Management:
+      - Console:
+          - Dashboard: console/dashboard.md
+          - Parking Map: console/parking-map.md
+          - Billing: console/billing.md
+  - Help:
+      - Troubleshooting: troubleshooting.md
+      - Support: support.md
+
 
 extra:
   social:
