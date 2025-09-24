@@ -4,7 +4,7 @@ The **Billing Console** in ParkEase provides administrators and operators with a
 
 ---
 
-## Key Features
+## 1. Key Features
 
 - **Automated Fee Calculation**  
         - Calculates fees based on entry/exit timestamps captured by the ANPR (Automatic Number Plate Recognition) system.  
@@ -24,7 +24,7 @@ The **Billing Console** in ParkEase provides administrators and operators with a
 
 ---
 
-## System Flow
+## 2. System Flow
 
 ```mermaid
 flowchart TD
@@ -43,7 +43,7 @@ flowchart TD
 
 ---
 
-## User Interface
+## 3. User Interface
 
 <p align="center">
   <img src="../../images/billing-dashboard-placeholder.jpg" alt="Billing Dashboard" width="800">
@@ -55,7 +55,7 @@ flowchart TD
 
 ---
 
-## Workflow Overview
+## 4. Workflow Overview
 
 1. Vehicle entry is captured via **ANPR**.  
 2. Parking duration is computed in real-time.  
@@ -66,7 +66,7 @@ flowchart TD
 
 ---
 
-## Benefits
+## 5. Benefits
 
 - **Faster Transactions:** Minimized manual handling of payments.  
 - **Enhanced Accuracy:** Reduced human error with automated calculations.  

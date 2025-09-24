@@ -10,7 +10,7 @@
 
 ---
 
-##  What is ParkEase?
+## 1. What is ParkEase?
 
 **ParkEase** is a state-of-the-art parking management solution that combines **AI, IoT, and Cloud technologies** to make parking **faster, safer, and more efficient**.  
 
@@ -25,7 +25,7 @@ With ParkEase, both drivers and parking facility operators enjoy a seamless expe
 
 ---
 
-## Key Features
+## 2. Key Features
 
 - :automobile: **Automated Access**  
   Seamless vehicle entry and exit using AI-powered ANPR and gate control.
@@ -50,7 +50,7 @@ With ParkEase, both drivers and parking facility operators enjoy a seamless expe
 
 ---
 
-## How It Works
+## 3. How It Works
 
 ParkEase consists of **three main components**:
 
@@ -82,7 +82,7 @@ Dive into the complete ParkEase documentation:
 
 --- -->
 
-## About SLTMobitel Innovation Center
+## 4. About SLTMobitel Innovation Center
 
 **The Embryo**, the innovation center of SLTMobitel, develops smart city solutions such as ParkEase.  
 Our mission is to improve daily life using **AI, IoT, and cloud technologies**, focusing on:
@@ -94,7 +94,7 @@ Our mission is to improve daily life using **AI, IoT, and cloud technologies**, 
 
 ---
 
-##  Testimonials
+##  5. Testimonials
 
 > "ParkEase transformed our parking operations. The automation and live monitoring save us hours of manual work daily!"  
 > — **Facility Manager, Colombo Central Parking**
@@ -104,7 +104,7 @@ Our mission is to improve daily life using **AI, IoT, and cloud technologies**, 
 
 ---
 
-##  Get Started Today
+##  6. Get Started Today
 
 Experience how ParkEase can revolutionize parking management:  
 
@@ -114,7 +114,7 @@ Experience how ParkEase can revolutionize parking management:
 
 ---
 
-## Quick Links
+## 7. Quick Links
 
 - :arrow_forward: [**Getting Started Guide →**](getting-started.md)   
 - :wrench: [**Troubleshooting →**](troubleshooting.md)  

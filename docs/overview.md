@@ -1,6 +1,6 @@
 # Overview
 
-## Introduction
+## 1. Introduction
 
 **ParkEase** is an **AI & Cloud-powered parking management platform** developed by **SLTMobitel Innovation Center – The Embryo**.  
 It is designed to address the growing challenges of urban mobility, parking congestion, and inefficient car park management by leveraging:
@@ -12,7 +12,7 @@ It is designed to address the growing challenges of urban mobility, parking cong
 
 ---
 
-## Why ParkEase?
+## 2. Why ParkEase?
 
 Traditional parking management systems are limited, often relying on manual checks, tokens, or outdated sensors.  
 **ParkEase modernizes parking operations** by providing:
@@ -25,7 +25,7 @@ Traditional parking management systems are limited, often relying on manual chec
 
 ---
 
-## System Architecture
+## 3. System Architecture
 
 ParkEase is built with a **hybrid Edge + Cloud architecture**:
 
@@ -49,7 +49,7 @@ ParkEase is built with a **hybrid Edge + Cloud architecture**:
 <!-- *Figure : Basic System Architecture*  -->
 ---
 
-## Core Capabilities
+## 4. Core Capabilities
 
 - :camera: **ANPR & Automated Gates**  
   Vehicles are identified automatically at entry/exit.
@@ -68,7 +68,7 @@ ParkEase is built with a **hybrid Edge + Cloud architecture**:
 
 ---
 
-## Benefits
+## 5. Benefits
 
 - **Reduced Congestion** → Faster entry/exit flow.  
 - **Cost Efficiency** → Lower manpower requirements.  
@@ -78,7 +78,7 @@ ParkEase is built with a **hybrid Edge + Cloud architecture**:
 
 ---
 
-## Target Users
+## 6. Target Users
 
 - :office: **Corporate Campuses** – employee parking automation  
 - :department_store: **Shopping Malls** – customer-friendly parking  

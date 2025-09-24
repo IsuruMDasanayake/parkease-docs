@@ -1,6 +1,6 @@
 # ParkEase GUI
 
-## Introduction
+## 1. Introduction
 
 The **Graphical User Interface (GUI)** of ParkEase simplifies the management of parking operations. It consolidates all background scripts, testing modules, and edge device controls into a single, user-friendly interface.
 
@@ -12,19 +12,19 @@ This GUI allows operators to:
 
 ---
 
-## GUI Structure
+## 2. GUI Structure
 
 The GUI has **three main frames**:
 
-1. **Auto Mode Frame**  
-2. **Testing Mode Frame**  
-3. **Settings Mode Frame**
+ - **Auto Mode Frame**  
+ - **Testing Mode Frame**  
+ - **Settings Mode Frame**
 
 Each frame serves a specific purpose and contains dedicated widgets for operators.
 
 ---
 
-## 1. Auto Mode Frame
+### 2.1. Auto Mode Frame
 
 The **Auto Mode Frame** manages the core ParkEase automation functions. It controls the entry/exit process via ANPR, spot allocation, and gate operations.
 
@@ -44,7 +44,7 @@ The **Auto Mode Frame** manages the core ParkEase automation functions. It contr
 
 ---
 
-## 2. Testing Mode Frame
+### 2.2. Testing Mode Frame
 
 The **Testing Mode Frame** allows operators to run individual system tests manually.
 
@@ -71,7 +71,7 @@ The **Testing Mode Frame** allows operators to run individual system tests manua
 
 ---
 
-## 3. Settings Mode Frame
+### 2.3. Settings Mode Frame
 
 The **Settings Mode Frame** allows configuration of parameters that vary by deployment location. All changes are saved in a configuration file used by the system.
 
@@ -92,7 +92,7 @@ The **Settings Mode Frame** allows configuration of parameters that vary by depl
 
 ---
 
-## Benefits of the GUI
+## 3. Benefits of the GUI
 
 - **Simplified Operation:** No need to manually run scripts.  
 - **Enhanced Testing:** Manual and automated modes help ensure reliability.  
