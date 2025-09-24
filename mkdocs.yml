@@ -2,8 +2,8 @@ site_name: ParkEase
 site_description: AI & Cloud-based Parking Management by SLTMobitel
 site_author: SLTMobitel Innovation Center – The Embryo
 
-repo_url: https://github.com/YourUsername/YourRepo
-repo_name: GitHub 
+# repo_url: https://github.com/YourUsername/YourRepo
+# repo_name: GitHub 
 
 theme:
   name: material
