@@ -46,7 +46,7 @@ ParkEase is built with a **hybrid Edge + Cloud architecture**:
     - **Billing Module** for payments and account handling  
 
 ![Hardware Setup](images/system-overview.png)
-*Figure : Basic System Architecture* 
+<!-- *Figure : Basic System Architecture*  -->
 ---
 
 ## Core Capabilities

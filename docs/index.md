@@ -94,16 +94,6 @@ Our mission is to improve daily life using **AI, IoT, and cloud technologies**, 
 
 ---
 
-## Why ParkEase?
-
-- Reduce waiting times and congestion in parking facilities  
-- Maximize space utilization with smart allocation  
-- Improve security and minimize human error  
-- Generate real-time analytics and reports  
-- Fully scalable and cloud-enabled  
-
----
-
 ##  Testimonials
 
 > "ParkEase transformed our parking operations. The automation and live monitoring save us hours of manual work daily!"  

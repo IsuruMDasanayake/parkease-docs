@@ -31,7 +31,7 @@ To deploy ParkEase at a new location, the following hardware is required:
 - Internet router / LAN connectivity  
 
 ![Hardware Setup](images/hardware-setup.png)
-*Figure : Hardware Setup* 
+<!-- *Figure : Hardware Setup*  -->
 
 ### Steps:
 1. Mount cameras at the entrance/exit for optimal plate visibility.  
@@ -53,7 +53,7 @@ The **Edge Device** (Jetson Nano) processes ANPR, controls the gate, and communi
 4. Install ParkEase edge software package (provided separately).  
 
 ![Edge Device Setup](images/edge-device.jpg)  
-*Figure : Edge Device*
+<!-- *Figure : Edge Device* -->
 ---
 
 ## 4. Camera Configuration
@@ -69,7 +69,7 @@ ParkEase relies on **RTSP video feeds** for ANPR.
 
 ![Camera Config](images/camera-config.png)
 ![Camera Config](images/camera-config1.png)  
-*Figure : Example camera configuration tool*
+<!-- *Figure : Example camera configuration tool* -->
 
 ---
 
