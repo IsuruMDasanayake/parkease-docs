@@ -8,8 +8,8 @@ Welcome to the **ParkEase Support** page. This guide provides assistance for ope
 
 If you encounter issues with ParkEase that are not covered in the troubleshooting guide, contact **SLTMobitel Innovation Center – The Embryo** support:
 
-- **Email:** support@parkease.sltmobitel.com  
-- **Phone:** +94 11 234 5678  
+- **Email:** info@sltdigitallab.lk 
+- **Phone:** +94 (11) 243 0010, +94 (70) 475 2330  
 - **Working Hours:** Monday – Friday, 8:00 AM – 5:00 PM  
 
 Include the following details for faster resolution:  
